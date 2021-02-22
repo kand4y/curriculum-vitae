@@ -48,3 +48,25 @@ Adobe XDのデザインを元に、各コンポーネントごとにレスポン
 Adobe Illustratorのデザインを元に、短期間でLPをコーディングいたしました。
 CSS設計としてSMACSSとBEMを導入し、ディレクターからの仕様変更に早急に対応できるように工夫いたしました。
 モバイルファーストでコーディングを行っているため、コード量を減らし、可読性の高いコードを書くことに力を入れました。
+
+<br />
+
+## 自己PR
+私の強みは学習意欲の高さです。<br />
+日頃から技術の向上に努めており、E-learningプラットフォームのUdemyでは、ReactやTypeScript, Next.jsなどの様々なコースを受講し修了しております。
+プログラミング言語はHTML, Sass, JavaScript, TypeScriptに関する知識に自信があり、Reactを使用した経験もございます。<br />
+その他、エンジニアの情報プラットフォームであるQiitaやZennなどで情報収集を行うことを習慣化しております。
+
+### Udemy受講コース 修了一覧
+- [Nextjs + Tailwind css + Django REST Framework で学ぶモダンReact開発](https://www.udemy.com/certificate/UC-93eebf78-db48-4f28-a50e-6623baf857bf/)
+- [Next JS with React Hooks - Building SSR React Applications](https://www.udemy.com/course/next-js-react-hooks/)
+- [最短・最速で学ぶ React製 静的サイトジェネレータ GatsbyJS + CMS Contentfulブログ実装編](https://www.udemy.com/certificate/UC-046b9855-18f2-4beb-bdbf-84afe79c541b/)
+- [[基礎編]React Hooks + Django REST Framework API でフルスタックWeb開発](https://www.udemy.com/certificate/UC-449b965f-7ff1-4211-89d1-47ad9f624de6/)
+- [最速で学ぶFirebase + React Hooks (TypeScript)](https://www.udemy.com/course/firebasereact-hookstypescript-todo/)
+- [最短・最速で学ぶ React Hooks 完全ガイド！ 現場で使えるReact開発+ステート管理をマスターしよう！](https://www.udemy.com/certificate/UC-1f770647-2608-4c33-9d0e-d21b15526d9e/)
+- [モダンJavaSciptの基礎から始める挫折しないためのReact入門](https://www.udemy.com/certificate/UC-5cc413e0-9e6d-46fc-9a45-6f8f3ed18c64/)
+- [最速で学ぶTypeScript](https://www.udemy.com/course/typescript-react-frontend/)
+- [CSSを効率的に書く！フロントエンドエンジニアのための「Sass」講座 ～基礎から実践まで～](https://www.udemy.com/certificate/UC-9a60bb33-9c67-4283-9741-aa746db346f6/)
+- [データベース講座１：データベース論理設計](https://www.udemy.com/certificate/UC-608ebcff-0874-4e68-8a97-c79ab5747d7f/)
+- [Git： もう怖くないGit！チーム開発で必要なGitを完全マスター](https://www.udemy.com/certificate/UC-000c0750-d61d-43a2-a9e5-c5dad3091211/)
+- [現役シリコンバレーエンジニアが教えるアジャイル開発](https://www.udemy.com/certificate/UC-8d9cb99e-85ae-4d0f-bdd3-04630a0ec4a1/)

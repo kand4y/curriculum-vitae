@@ -59,12 +59,14 @@ CSS設計としてSMACSSとBEMを導入し、ディレクターからの仕様�
 
 ### Udemy受講コース 修了一覧
 - [Nextjs + Tailwind css + Django REST Framework で学ぶモダンReact開発](https://www.udemy.com/certificate/UC-93eebf78-db48-4f28-a50e-6623baf857bf/)
+- [[テスト編] Nextjs + React-testing-libraryでモダンReactソフトウェアテスト](https://www.udemy.com/certificate/UC-0f912dc1-83a1-4cae-8103-ed34f0f524bd/)
 - [Next JS with React Hooks - Building SSR React Applications](https://www.udemy.com/course/next-js-react-hooks/)
 - [最短・最速で学ぶ React製 静的サイトジェネレータ GatsbyJS + CMS Contentfulブログ実装編](https://www.udemy.com/certificate/UC-046b9855-18f2-4beb-bdbf-84afe79c541b/)
 - [[基礎編]React Hooks + Django REST Framework API でフルスタックWeb開発](https://www.udemy.com/certificate/UC-449b965f-7ff1-4211-89d1-47ad9f624de6/)
 - [最速で学ぶFirebase + React Hooks (TypeScript)](https://www.udemy.com/course/firebasereact-hookstypescript-todo/)
 - [最短・最速で学ぶ React Hooks 完全ガイド！ 現場で使えるReact開発+ステート管理をマスターしよう！](https://www.udemy.com/certificate/UC-1f770647-2608-4c33-9d0e-d21b15526d9e/)
 - [モダンJavaSciptの基礎から始める挫折しないためのReact入門](https://www.udemy.com/certificate/UC-5cc413e0-9e6d-46fc-9a45-6f8f3ed18c64/)
+- [超TypeScript入門 完全パック(2021)](https://www.udemy.com/certificate/UC-bd35b17d-734d-4876-85e5-fb082005cdd3/)
 - [最速で学ぶTypeScript](https://www.udemy.com/course/typescript-react-frontend/)
 - [CSSを効率的に書く！フロントエンドエンジニアのための「Sass」講座 ～基礎から実践まで～](https://www.udemy.com/certificate/UC-9a60bb33-9c67-4283-9741-aa746db346f6/)
 - [データベース講座１：データベース論理設計](https://www.udemy.com/certificate/UC-608ebcff-0874-4e68-8a97-c79ab5747d7f/)
